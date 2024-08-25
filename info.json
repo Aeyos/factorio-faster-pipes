@@ -5,7 +5,7 @@
   "title": "Faster Pipes",
   "author": "Aeyos",
   "contact": "",
-  "www": "",
+  "homepage": "https://github.com/Aeyos/factorio-faster-pipes",
   "description": "Makes vanilla pipes behave more like the upcoming factorio update. Note: EARLY version, compatibility with other mods not guaranteed at all.",
   "dependencies": [
     "base >= 1.1.0"
